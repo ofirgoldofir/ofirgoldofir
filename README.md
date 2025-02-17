@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ofir Goldberg</h1>
-<h3 align="center">A computer science student</h3>
 
 ## 🚀 What I Do
 
-I love building scalable and user-friendly web applications, as well as exploring the possibilities in Java, Python, C, and C++. With a strong foundation in React, JavaScript, and these programming languages, I enjoy crafting modular and efficient code to create seamless user experiences. My passion lies in pushing the boundaries of what's possible on the web and beyond.
+I love building scalable and robust web applications, with a strong emphasis on backend technologies like Laravel PHP, and Node.js.
 
 - 📫 How to reach me **ofirgoldofir@gmail.com**
 
