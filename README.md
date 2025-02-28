@@ -2,7 +2,7 @@
 
 ## 🚀 What I Do
 
-I love building scalable and robust web applications, with a strong emphasis on backend technologies like Laravel PHP, and Node.js.
+I love building scalable and robust web applications, with a strong emphasis on backend technologies like Node.js and Laravel PHP
 
 - 📫 How to reach me **ofirgoldofir@gmail.com**
 
